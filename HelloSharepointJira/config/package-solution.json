@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hallo-jira-client-side-solution",
+    "id": "3ad31bf8-7cb5-4d8e-8493-bb2277ce688d",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hallo-jira.sppkg"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/halloJira/HalloJiraWebPart.js",
+      "manifest": "./src/webparts/halloJira/HalloJiraWebPart.manifest.json",
+      "outputPath": "./dist/hallo-jira-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "HalloJiraWebPartStrings": "webparts/halloJira/loc/{locale}.js"
+  }
+}
